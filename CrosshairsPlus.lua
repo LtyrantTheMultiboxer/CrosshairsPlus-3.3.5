@@ -42,12 +42,13 @@ local ASSET = "Interface\\AddOns\\CrosshairsPlus\\Assets\\"
 local CIRCLE_TEX = {
     ASSET.."circle",
     ASSET.."Circle0",
+    ASSET.."Circle1",
     ASSET.."Circle2",
     ASSET.."Circle3",
     ASSET.."Circle4",
-    ASSET.."CircleGlow",
+    ASSET.."Circle5",
 }
-local CIRCLE_NAMES = { "Original","Style 2","Style 3","Style 4","Style 5","Glow" }
+local CIRCLE_NAMES = { "Original","Style 2","Style 3","Style 4","Style 5","Style 6","Style 7" }
 
 local DEFAULTS = {
     alpha       = 0.75,
